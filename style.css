@@ -1,0 +1,22 @@
+#profile {
+  text-align: center; /* Center-aligning content */
+}
+
+#profile img {
+  max-width: 100px; /* Responsive image */
+  max-height: 100px;
+}
+
+#profile h1 {
+  color: pink;
+}
+
+#profile hr {
+  width: 110%; /* Adjust as needed */
+  border-color: pink;
+}
+
+ol, ul {
+  font-size: smaller;
+  font-weight: normal;
+}
